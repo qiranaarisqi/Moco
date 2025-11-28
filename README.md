@@ -34,9 +34,13 @@ Fitur login untuk admin guna mengelola berita secara efisien.
 </p>
 
 ⚙️ Teknologi yang Digunakan
+
 PHP Native (tanpa framework)
+
 MySQL untuk basis data
+
 HTML5 & CSS3
+
 JavaScript
 
 🎯 Tujuan Project
